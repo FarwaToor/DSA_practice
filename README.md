@@ -15,5 +15,5 @@ So this Whole parking lot code is using three data structures Stack, Queue, Hash
 
 **Course** : CS221
 **Instructor** : UsamaArshad
-**Institute** : GIKI
+**Institute** : GIKI 
 **Reg number ** : 2021167
