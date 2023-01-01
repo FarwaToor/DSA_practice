@@ -13,7 +13,7 @@ There is also a VIP parking area having a specific decal. Hashing is used for th
 So this Whole parking lot code is using three data structures Stack, Queue, Hashing.
 
 
-Course : CS221
-Instructor : UsamaArshad
-Institute : GIKI
-Reg number : 2021167
+**Course** : CS221
+**Instructor** : UsamaArshad
+**Institute** : GIKI
+**Reg number ** : 2021167
