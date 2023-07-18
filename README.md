@@ -12,8 +12,3 @@ If the stack representing the parking lot is full, the car waiting should be add
 There is also a VIP parking area having a specific decal. Hashing is used for this lot.
 So this Whole parking lot code is using three data structures Stack, Queue, Hashing.
 
-
-**Course** : CS221
-**Instructor** : UsamaArshad
-**Institute** : GIKI 
-**Reg number ** : 2021167
