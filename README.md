@@ -1,4 +1,4 @@
-# Parking LOt System
+# Parking Lot System
 The parking lot is a “last-in, first-out” stack. When parking a car,
 the program must first check to see if the car has the correct decal. 
 If it does have the correct permit, the car may be added to the lot as long as there is enough room. 
